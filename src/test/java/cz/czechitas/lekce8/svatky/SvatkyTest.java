@@ -115,6 +115,7 @@ class SvatkyTest {
     svatky.vypsatJmenaListopad();
   }
 
+
   @Test
   void pocetUnikatnichJmen() {
     assertEquals(541, svatky.pocetUnikatnichJmen());
